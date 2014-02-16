@@ -1,0 +1,27 @@
+
+/* Class = "IBUILabel"; text = "0連射 / 10秒"; ObjectID = "4uf-da-Dlz"; */
+"4uf-da-Dlz.text" = "0連射 / 10秒";
+
+/* Class = "IBUILabel"; text = "今回のスコア："; ObjectID = "BA9-xX-wUQ"; */
+"BA9-xX-wUQ.text" = "今回のスコア：";
+
+/* Class = "IBUILabel"; text = "ハイスコア："; ObjectID = "CuL-tO-AcU"; */
+"CuL-tO-AcU.text" = "ハイスコア：";
+
+/* Class = "IBUIButton"; normalTitle = "ランキング"; ObjectID = "Jpv-Ip-jRI"; */
+"Jpv-Ip-jRI.normalTitle" = "ランキング";
+
+/* Class = "IBUILabel"; text = "0連射 / 10秒"; ObjectID = "Mb4-ch-ZJl"; */
+"Mb4-ch-ZJl.text" = "0連射 / 10秒";
+
+/* Class = "IBUILabel"; text = "0Hit"; ObjectID = "NaE-uk-pC3"; */
+"NaE-uk-pC3.text" = "0Hit";
+
+/* Class = "IBUILabel"; text = "Push Start!!"; ObjectID = "PpU-LU-GwP"; */
+"PpU-LU-GwP.text" = "Push Start!!";
+
+/* Class = "IBUILabel"; text = "0Hit"; ObjectID = "aIb-B0-l0v"; */
+"aIb-B0-l0v.text" = "0Hit";
+
+/* Class = "IBUIButton"; normalTitle = "リトライ！"; ObjectID = "u5V-Ez-mQF"; */
+"u5V-Ez-mQF.normalTitle" = "リトライ！";

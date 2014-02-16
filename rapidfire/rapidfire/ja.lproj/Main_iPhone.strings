@@ -1,0 +1,27 @@
+
+/* Class = "IBUILabel"; text = "Push Start!!"; ObjectID = "1B1-ed-omk"; */
+"1B1-ed-omk.text" = "Push Start!!";
+
+/* Class = "IBUILabel"; text = "0連射 / 10秒"; ObjectID = "30E-7p-DDn"; */
+"30E-7p-DDn.text" = "0連射 / 10秒";
+
+/* Class = "IBUIButton"; normalTitle = "リトライ！"; ObjectID = "BGJ-0p-TNY"; */
+"BGJ-0p-TNY.normalTitle" = "リトライ！";
+
+/* Class = "IBUILabel"; text = "0Hit"; ObjectID = "Gr1-td-J5b"; */
+"Gr1-td-J5b.text" = "0Hit";
+
+/* Class = "IBUILabel"; text = "0Hit"; ObjectID = "Miu-BT-Bvn"; */
+"Miu-BT-Bvn.text" = "0Hit";
+
+/* Class = "IBUILabel"; text = "0連射 / 10秒"; ObjectID = "Oda-eS-xNy"; */
+"Oda-eS-xNy.text" = "0連射 / 10秒";
+
+/* Class = "IBUIButton"; normalTitle = "ランキング"; ObjectID = "dxP-j7-EwN"; */
+"dxP-j7-EwN.normalTitle" = "ランキング";
+
+/* Class = "IBUILabel"; text = "ハイスコア："; ObjectID = "izP-2X-icD"; */
+"izP-2X-icD.text" = "ハイスコア：";
+
+/* Class = "IBUILabel"; text = "今回のスコア："; ObjectID = "kvm-iE-gFh"; */
+"kvm-iE-gFh.text" = "今回のスコア：";
